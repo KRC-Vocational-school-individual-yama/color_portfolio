@@ -1,4 +1,4 @@
-﻿#include "DxLib.h"
+﻿#include <DxLib.h>
 #include<stdio.h>
 #include <string>
 #include<math.h>
